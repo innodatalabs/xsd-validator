@@ -1,0 +1,4 @@
+org/
+META-INF/
+*.class
+com.innodata.XsdValidator.jar
