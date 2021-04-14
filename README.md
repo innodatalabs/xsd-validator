@@ -1,6 +1,6 @@
 # xsd_validator
 ![xsd_validator](https://github.com/innodatalabs/xsd-validator/actions/workflows/test.yaml/badge.svg)
-![PyPI version](https://badge.fury.io/py/xsd-validator.svg)](https://badge.fury.io/py/xsd-validator)
+[![PyPI version](https://badge.fury.io/py/xsd-validator.svg)](https://badge.fury.io/py/xsd-validator)
 
 Validates an XML file against XSDs, supports XSD version 1.1. Requires Java Runtime.
 
