@@ -1,4 +1,5 @@
 # xsd_validator
+![xsd_validator](https://github.com/innodatalabs/xsd-validator/actions/workflows/test.yaml/badge.svg)
 
 Validates an XML file against XSDs, supports XSD version 1.1. Requires Java Runtime.
 
