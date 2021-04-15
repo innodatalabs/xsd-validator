@@ -6,7 +6,7 @@ with open('README.md') as f:
 
 setup(
     name        = 'xsd_validator',
-    version     = '0.0.1',
+    version     = '0.0.2',
     description = 'Validates XML file against XSD, supporting XSD versionj 1.1',
     author      = 'Mike Kroutikov',
     author_email= 'mkroutikov@innodata.com',

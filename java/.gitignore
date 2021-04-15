@@ -1,4 +1,5 @@
 org/
+java_cup/
 META-INF/
 *.class
 com.innodata.XsdValidator.jar

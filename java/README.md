@@ -8,7 +8,7 @@ jar x org.eclipse.wst.xml.xpath2.processor_1.2.0.jar
 
 Compile
 ```
-javac com/innodata/XsdValidator.java
+javac -target 8 -source 8 -Xlint:-options com/innodata/XsdValidator.java
 ```
 
 Finally package JAR
