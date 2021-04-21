@@ -1,5 +1,9 @@
 org/
+com/
+javax/
 java_cup/
+license/
 META-INF/
 *.class
 com.innodata.XsdValidator.jar
+tmp/
